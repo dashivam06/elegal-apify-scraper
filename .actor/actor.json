@@ -1,0 +1,10 @@
+{
+	"actorSpecification": 1,
+	"name": "elegal-apify-actor",
+	"version": "0.0",
+	"buildTag": "latest",
+	"environmentVariables": {
+		"ROTATING_PROXY_URL" : "http://okitzyql-rotate:pxd2futo95rcc@p.webshare.io:80" ,
+		"PREMIUM_PROXY_URL" : "" 
+	}
+}
